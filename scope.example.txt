@@ -1,0 +1,5 @@
+# Copy this file to scope.txt and add ONLY domains you own
+# or that are in your written bug-bounty scope, one per line.
+# Example:
+# example.com
+# sub.example.com
