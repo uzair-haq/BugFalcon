@@ -1,3 +1,5 @@
+BugFalcon is a free, open-source tool for authorised bug bounty recon on Linux. Give it a target in your scope and it checks the tech, searches public CVE data, runs Nuclei, searchsploit and subfinder if you have them installed, and writes a clean Markdown report. It never runs an exploit by itself.
+
 # BugFalcon 🦅
 
 **Automated Bug Bounty Recon + CVE Hunter for Linux**
